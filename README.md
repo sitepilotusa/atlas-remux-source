@@ -6,7 +6,7 @@ This repository publishes immutable source archives used to build the Atlas-patc
 
 - Source identity: upstream Remux `0.25.0` with Atlas patch revision `atlas.1`
 - Archive: [`atlas-remux-0.25.0-atlas.1-source.tar.gz`](./atlas-remux-0.25.0-atlas.1-source.tar.gz)
-- Size: `6,449,767` bytes
-- SHA-256: `fbcd4107eb1b1bd87c0ae56336b0122f8aebdf09de2ce79ea45ec6c1b003af2f`
+- Size: `6,449,754` bytes
+- SHA-256: `f4fa377807cec0e01e1207d36d712c4421790466b22a4218aed76ae4e7233307`
 
 The archive filename records the upstream Remux version and Atlas patch revision. This source archive may be referenced by multiple Atlas release tags; each tag identifies the exact repository commit used for the corresponding signed container publication.
